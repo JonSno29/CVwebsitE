@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CVwebsitE/static/css/main.68207c12.css",
-    "main.js": "/CVwebsitE/static/js/main.694a90b5.js",
+    "main.js": "/CVwebsitE/static/js/main.76507ddd.js",
     "static/media/Images.png": "/CVwebsitE/static/media/Images.906e22bd571c5d1381b2.png",
     "static/media/bigcode.jpg": "/CVwebsitE/static/media/bigcode.cec53dd93dba9873b700.jpg",
     "static/media/JTSRES.A.pdf": "/CVwebsitE/static/media/JTSRES.A.203ba0919a83360742e7.pdf",
@@ -14,10 +14,10 @@
     "static/media/TIK-TAK-CODE-1 (1).png": "/CVwebsitE/static/media/TIK-TAK-CODE-1 (1).58bf8d436367c1c9300d.png",
     "index.html": "/CVwebsitE/index.html",
     "main.68207c12.css.map": "/CVwebsitE/static/css/main.68207c12.css.map",
-    "main.694a90b5.js.map": "/CVwebsitE/static/js/main.694a90b5.js.map"
+    "main.76507ddd.js.map": "/CVwebsitE/static/js/main.76507ddd.js.map"
   },
   "entrypoints": [
     "static/css/main.68207c12.css",
-    "static/js/main.694a90b5.js"
+    "static/js/main.76507ddd.js"
   ]
 }
