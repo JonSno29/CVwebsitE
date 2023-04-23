@@ -31,8 +31,8 @@ return (
           <article className="contact__option">
             <FaLinkedin className="contact__option-icon" />
             <h4>LinkedIn</h4>
-            <h5>jon-snover-b15272110</h5>
-            <a href="https://www.linkedin.com/in/jon-snover-b15272110/" target="_blank" rel="noreferrer">
+            <h5>jontsnover</h5>
+            <a href="https://www.linkedin.com/in/jontsnover/" target="_blank" rel="noreferrer">
               Send a message
             </a>
           </article>
