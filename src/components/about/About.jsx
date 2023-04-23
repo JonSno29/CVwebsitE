@@ -6,7 +6,6 @@ import { FaAward, FaUsers, FaFolderOpen } from "react-icons/fa";
 const About = () => {
   return (
     <section id="about">
-      <h5>GET TO KNOW</h5>
       <h2>ABOUT ME</h2>
       <div className="container about__container">
         <div className="about__me">
@@ -30,6 +29,11 @@ const About = () => {
               <FaFolderOpen className="about__icon" />
               <h5>Projects</h5>
               <small>30+ and counting</small>
+            </article>
+             <article className="about__card">
+              <FaFolderOpen className="about__icon" />
+              <h5>Certificates</h5>
+              <small>One</small>
             </article>
           </div>
           <p>

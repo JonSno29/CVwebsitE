@@ -46,7 +46,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "Our final coding bootcamp project three, TIK-TAK-CODE ",
+    title: "Our final coding bootcamp project, TIK-TAK-CODE ",
     github:"https://github.com/vivid20221/Tik-Tak-Code.git",
     demo:  "https://sleepy-peak-49948.herokuapp.com/",
   },
@@ -55,7 +55,6 @@ const data = [
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
       <h2>PORTFOLIO</h2>
       <div
         className="container 
