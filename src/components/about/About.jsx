@@ -33,31 +33,18 @@ const About = () => {
             </article>
           </div>
           <p>
-           My name is Jon Snover and I am a University Of Minnesota, 
 
-  Full-Stack Coding Bootcamp Graduate.
-  
-  I came across this coding bootcamp while studying 
+          Highly creative full stack web developer looking to apply knowledge, 
+          
+          problem solving skills and my commendable work ethic to overcome obstacles, 
+          
+          obtain goals, individually or collectively. 
 
-  to become a Real Estate agent, when I asked myself 
-
-  “What do you really want to do?”. Eventually, 
-
-   my goal is to become a remote developer,
-  
-  a very good one. I love to problem solve, 
-
-  be creative and go above and beyond. 
-
-  I am a very hard worker and believe 
-
-  I would make a strong addition to the your team, 
-
-  please check out my GitHub.
+          Please check out my GitHub.
   
           </p>
           <a href="#contact" className="btn btn-primary">
-            Get in touch
+            Message me!
           </a>
         </div>
       </div>
