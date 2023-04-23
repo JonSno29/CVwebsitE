@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CVwebsitE/static/css/main.68207c12.css",
-    "main.js": "/CVwebsitE/static/js/main.72e17305.js",
+    "main.css": "/CVwebsitE/static/css/main.c2674304.css",
+    "main.js": "/CVwebsitE/static/js/main.7641261a.js",
     "static/media/bigcode.jpg": "/CVwebsitE/static/media/bigcode.cec53dd93dba9873b700.jpg",
     "static/media/JTSRES.a.pdf": "/CVwebsitE/static/media/JTSRES.a.952e0985e6408d6c1b5a.pdf",
     "static/media/TRIPPIEBRtSample.png": "/CVwebsitE/static/media/TRIPPIEBRtSample.8589b7d629f2d27d4621.png",
@@ -13,11 +13,11 @@
     "static/media/TIK-TAK-CODE-1 (1).png": "/CVwebsitE/static/media/TIK-TAK-CODE-1 (1).58bf8d436367c1c9300d.png",
     "static/media/cvresumEPIC.jpeg": "/CVwebsitE/static/media/cvresumEPIC.25d30dc7b21d5b4f4baa.jpeg",
     "index.html": "/CVwebsitE/index.html",
-    "main.68207c12.css.map": "/CVwebsitE/static/css/main.68207c12.css.map",
-    "main.72e17305.js.map": "/CVwebsitE/static/js/main.72e17305.js.map"
+    "main.c2674304.css.map": "/CVwebsitE/static/css/main.c2674304.css.map",
+    "main.7641261a.js.map": "/CVwebsitE/static/js/main.7641261a.js.map"
   },
   "entrypoints": [
-    "static/css/main.68207c12.css",
-    "static/js/main.72e17305.js"
+    "static/css/main.c2674304.css",
+    "static/js/main.7641261a.js"
   ]
 }
