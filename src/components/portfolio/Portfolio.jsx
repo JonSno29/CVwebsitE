@@ -39,7 +39,7 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "My GitHub README.md page, I will never complete this. ",
+    title: "My GitHub README.md page",
     github: "https://github.com/JonSno29 ",
     demo: "https://github.com/JonSno29 ",
   },

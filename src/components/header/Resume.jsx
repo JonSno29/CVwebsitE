@@ -1,11 +1,11 @@
 import React from "react";
-import JTSRES from "../../assets/JTSRES.A.pdf";
+import JTSRES from "../../assets/JTSRES.a.pdf";
 import "./resume.css";
 const Resume = () => {
   return (
     <div className="Resume">
       <a href={JTSRES} download className="btn">
-        Download Resume
+        Download Resumé
       </a>
     </div>
   );

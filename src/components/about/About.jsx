@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/Images.png";
+import ME from "../../assets/cvresumEPIC.jpeg";
 import { FaAward, FaUsers, FaFolderOpen } from "react-icons/fa";
 
 const About = () => {
@@ -24,12 +24,12 @@ const About = () => {
             <article className="about__card">
               <FaUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>2 and counting...</small>
+              <small>3 and counting...</small>
             </article>
             <article className="about__card">
               <FaFolderOpen className="about__icon" />
               <h5>Projects</h5>
-              <small>About 30</small>
+              <small>30+ and counting</small>
             </article>
           </div>
           <p>
