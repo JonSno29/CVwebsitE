@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CVwebsitE/static/css/main.778115c8.css",
-    "main.js": "/CVwebsitE/static/js/main.7641261a.js",
+    "main.css": "/CVwebsitE/static/css/main.dd5f6e65.css",
+    "main.js": "/CVwebsitE/static/js/main.34d4cc10.js",
     "static/media/bigcode.jpg": "/CVwebsitE/static/media/bigcode.cec53dd93dba9873b700.jpg",
-    "static/media/JTSRES.a.pdf": "/CVwebsitE/static/media/JTSRES.a.952e0985e6408d6c1b5a.pdf",
+    "static/media/ARS-1 (1).png": "/CVwebsitE/static/media/ARS-1 (1).ab4867aa06374d161e8f.png",
     "static/media/TRIPPIEBRtSample.png": "/CVwebsitE/static/media/TRIPPIEBRtSample.8589b7d629f2d27d4621.png",
     "static/media/JTSbluetran.png": "/CVwebsitE/static/media/JTSbluetran.774aa8808cd9a7ea30a8.png",
-    "static/media/README-1.png": "/CVwebsitE/static/media/README-1.5027c862137a4afdc063.png",
+    "static/media/RESUME.pdf": "/CVwebsitE/static/media/RESUME.b33108114e2b2791e007.pdf",
     "static/media/JTS-1.png": "/CVwebsitE/static/media/JTS-1.6d2f7c8e70ee451e13ca.png",
     "static/media/FULL COUNT SOFT WASH-1.png": "/CVwebsitE/static/media/FULL COUNT SOFT WASH-1.8dfd9a76dc353cd25370.png",
     "static/media/CODIOtran.png": "/CVwebsitE/static/media/CODIOtran.6800bb6f67971c6ad2ee.png",
     "static/media/TIK-TAK-CODE-1 (1).png": "/CVwebsitE/static/media/TIK-TAK-CODE-1 (1).58bf8d436367c1c9300d.png",
     "static/media/cvresumEPIC.jpeg": "/CVwebsitE/static/media/cvresumEPIC.25d30dc7b21d5b4f4baa.jpeg",
     "index.html": "/CVwebsitE/index.html",
-    "main.778115c8.css.map": "/CVwebsitE/static/css/main.778115c8.css.map",
-    "main.7641261a.js.map": "/CVwebsitE/static/js/main.7641261a.js.map"
+    "main.dd5f6e65.css.map": "/CVwebsitE/static/css/main.dd5f6e65.css.map",
+    "main.34d4cc10.js.map": "/CVwebsitE/static/js/main.34d4cc10.js.map"
   },
   "entrypoints": [
-    "static/css/main.778115c8.css",
-    "static/js/main.7641261a.js"
+    "static/css/main.dd5f6e65.css",
+    "static/js/main.34d4cc10.js"
   ]
 }
