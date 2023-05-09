@@ -18,7 +18,7 @@ const Header = () => {
           <img src={ME} alt="me" />
         </div>
         <a href="#contact" className="scroll__down">
-          BOTTOM
+          TO THE BOTTOM!
         </a>
       </div>
     </header>

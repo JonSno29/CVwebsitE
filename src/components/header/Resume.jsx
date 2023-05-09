@@ -1,5 +1,5 @@
 import React from "react";
-import JTSRES from "../../assets/JTSRES.a.pdf";
+import JTSRES from "../../assets/RESUME.pdf";
 import "./resume.css";
 const Resume = () => {
   return (

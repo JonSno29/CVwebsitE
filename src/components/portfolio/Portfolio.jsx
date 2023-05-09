@@ -4,7 +4,7 @@ import IMG1 from "../../assets/CODIOtran.png";
 import IMG2 from "../../assets/TRIPPIEBRtSample.png";
 import IMG3 from "../../assets/FULL COUNT SOFT WASH-1.png";
 import IMG4 from "../../assets/JTS-1.png";
-import IMG5 from "../../assets/README-1.png";
+import IMG5 from "../../assets/ARS-1 (1).png";
 import IMG6 from "../../assets/TIK-TAK-CODE-1 (1).png";
 
 const data = [
@@ -39,9 +39,9 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "My GitHub README.md page",
-    github: "https://github.com/JonSno29 ",
-    demo: "https://github.com/JonSno29 ",
+    title: "A webpage dedicated to my daughter",
+    github: "https://github.com/JonSno29/AudreyRose.git",
+    demo: "https://jonsno29.github.io/AudreyRose/",
   },
   {
     id: 6,
