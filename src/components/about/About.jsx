@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import ME from "../../assets/cvresumEPIC.jpeg";
-import { FaAward, FaUsers, FaFolderOpen } from "react-icons/fa";
+import { FaAward, FaUsers, FaFolderOpen, FaTrophy } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -31,7 +31,7 @@ const About = () => {
               <small>30+ and counting</small>
             </article>
              <article className="about__card">
-              <FaFolderOpen className="about__icon" />
+              <FaTrophy className="about__icon" />
               <h5>Certificates</h5>
               <small>One</small>
             </article>
