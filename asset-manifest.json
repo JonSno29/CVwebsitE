@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CVwebsitE/static/css/main.dd5f6e65.css",
-    "main.js": "/CVwebsitE/static/js/main.34d4cc10.js",
+    "main.js": "/CVwebsitE/static/js/main.b1fe2a9d.js",
     "static/media/bigcode.jpg": "/CVwebsitE/static/media/bigcode.cec53dd93dba9873b700.jpg",
     "static/media/ARS-1 (1).png": "/CVwebsitE/static/media/ARS-1 (1).ab4867aa06374d161e8f.png",
     "static/media/TRIPPIEBRtSample.png": "/CVwebsitE/static/media/TRIPPIEBRtSample.8589b7d629f2d27d4621.png",
@@ -14,10 +14,10 @@
     "static/media/cvresumEPIC.jpeg": "/CVwebsitE/static/media/cvresumEPIC.25d30dc7b21d5b4f4baa.jpeg",
     "index.html": "/CVwebsitE/index.html",
     "main.dd5f6e65.css.map": "/CVwebsitE/static/css/main.dd5f6e65.css.map",
-    "main.34d4cc10.js.map": "/CVwebsitE/static/js/main.34d4cc10.js.map"
+    "main.b1fe2a9d.js.map": "/CVwebsitE/static/js/main.b1fe2a9d.js.map"
   },
   "entrypoints": [
     "static/css/main.dd5f6e65.css",
-    "static/js/main.34d4cc10.js"
+    "static/js/main.b1fe2a9d.js"
   ]
 }
