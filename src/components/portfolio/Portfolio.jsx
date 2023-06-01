@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/CODIOtran.png";
-import IMG2 from "../../assets/TRIPPIEBRtSample.png";
+import IMG2 from "../../assets/src/assets/PRIMETIME CONCESSIONS-1 (1).png";
 import IMG3 from "../../assets/FULL COUNT SOFT WASH-1.png";
 import IMG4 from "../../assets/JTS-1.png";
 import IMG5 from "../../assets/ARS-1 (1).png";
@@ -18,9 +18,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "My second group project, A roadtrip documentation application",
-    github: "https://github.com/JonSno29/Trippie-101.git",
-    demo: "https://trippie-101.herokuapp.com/",
+    title: "I created my children a simple business webpage",
+    github: "https://github.com/JonSno29/PRIMETIME",
+    demo: "https://jonsno29.github.io/PRIMETIME/",
   },
   {
     id: 3,
