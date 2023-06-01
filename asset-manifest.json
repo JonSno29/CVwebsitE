@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/CVwebsitE/static/css/main.dd5f6e65.css",
-    "main.js": "/CVwebsitE/static/js/main.b1fe2a9d.js",
+    "main.js": "/CVwebsitE/static/js/main.ac9278d5.js",
     "static/media/bigcode.jpg": "/CVwebsitE/static/media/bigcode.cec53dd93dba9873b700.jpg",
+    "static/media/PRIMETIME CONCESSIONS-1 (1).png": "/CVwebsitE/static/media/PRIMETIME CONCESSIONS-1 (1).0e7283b9615187d66e59.png",
     "static/media/ARS-1 (1).png": "/CVwebsitE/static/media/ARS-1 (1).ab4867aa06374d161e8f.png",
-    "static/media/TRIPPIEBRtSample.png": "/CVwebsitE/static/media/TRIPPIEBRtSample.8589b7d629f2d27d4621.png",
     "static/media/JTSbluetran.png": "/CVwebsitE/static/media/JTSbluetran.774aa8808cd9a7ea30a8.png",
     "static/media/RESUME.pdf": "/CVwebsitE/static/media/RESUME.b33108114e2b2791e007.pdf",
     "static/media/JTS-1.png": "/CVwebsitE/static/media/JTS-1.6d2f7c8e70ee451e13ca.png",
@@ -14,10 +14,10 @@
     "static/media/cvresumEPIC.jpeg": "/CVwebsitE/static/media/cvresumEPIC.25d30dc7b21d5b4f4baa.jpeg",
     "index.html": "/CVwebsitE/index.html",
     "main.dd5f6e65.css.map": "/CVwebsitE/static/css/main.dd5f6e65.css.map",
-    "main.b1fe2a9d.js.map": "/CVwebsitE/static/js/main.b1fe2a9d.js.map"
+    "main.ac9278d5.js.map": "/CVwebsitE/static/js/main.ac9278d5.js.map"
   },
   "entrypoints": [
     "static/css/main.dd5f6e65.css",
-    "static/js/main.b1fe2a9d.js"
+    "static/js/main.ac9278d5.js"
   ]
 }
