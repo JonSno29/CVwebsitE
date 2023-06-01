@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/CODIOtran.png";
-import IMG2 from "../../assets/src/assets/PRIMETIME CONCESSIONS-1 (1).png";
+import IMG2 from "../../assets/PRIMETIME CONCESSIONS-1 (1).png";
 import IMG3 from "../../assets/FULL COUNT SOFT WASH-1.png";
 import IMG4 from "../../assets/JTS-1.png";
 import IMG5 from "../../assets/ARS-1 (1).png";
